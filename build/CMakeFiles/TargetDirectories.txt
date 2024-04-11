@@ -1,0 +1,4 @@
+/home/dmz/Baidu/iLQR_barrier_function/build/CMakeFiles/run_ipddp.dir
+/home/dmz/Baidu/iLQR_barrier_function/build/CMakeFiles/gtest.dir
+/home/dmz/Baidu/iLQR_barrier_function/build/CMakeFiles/edit_cache.dir
+/home/dmz/Baidu/iLQR_barrier_function/build/CMakeFiles/rebuild_cache.dir

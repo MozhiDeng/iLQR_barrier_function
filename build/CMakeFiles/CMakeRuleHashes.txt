@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+039606e317a10176ebcfe09d1c95dacb gtest/src/gtest-stamp/gtest-build
+3b700ec84adc3a0aaed7fde316e7bd87 gtest/src/gtest-stamp/gtest-configure
+b8e1adde64dd85d95fb58e91eef4f2a5 gtest/src/gtest-stamp/gtest-download
+485059be08308eb9f81154885f989b73 gtest/src/gtest-stamp/gtest-install
+c8c115815e75aeb1e0837efd803adc91 gtest/src/gtest-stamp/gtest-mkdir
+097e08edc4831c4cc223aa981ead283e gtest/src/gtest-stamp/gtest-patch
+4408a9813adea55519cc4393a3f51cfd gtest/src/gtest-stamp/gtest-update
